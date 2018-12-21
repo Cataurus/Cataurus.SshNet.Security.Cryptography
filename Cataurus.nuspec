@@ -6,7 +6,8 @@
     <authors>Ulf (Cataurus) Prill</authors>
     <owners>Ulf (Cataurus) Prill</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <license type="expression">MIT</license>
+    <!--- <license type="expression">MIT</license> -->
+    <licenseUrl>https://github.com/Cataurus/Cataurus.SshNet.Security.Cryptography/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Cataurus/Cataurus.SshNet.Security.Cryptography</projectUrl>
     <description>SshNet.Security.Cryptography for only .NET Standard</description>
     <dependencies>
