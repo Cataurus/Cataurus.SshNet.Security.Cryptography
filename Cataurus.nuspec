@@ -34,16 +34,16 @@
   <files>
     <file src="bin\Release\netstandard1.0\SshNet.Security.Cryptography.dll" target="lib\netstandard1.0\SshNet.Security.Cryptography.dll" />
     <file src="bin\Release\netstandard1.0\SshNet.Security.Cryptography.xml" target="lib\netstandard1.0\SshNet.Security.Cryptography.xml" />
-    <file src="bin\Release\netstandard1.0\SshNet.Security.Cryptography.pdb" target="lib\netstandard1.0\SshNet.Security.Cryptography.pdb" />
+    <file src="bin\Release\netstandard1.0\SshNet.Security.Cryptography.pdb" target="lib\netstandard1.0\SshNet.Security.Cryptography.pdb" />    
     <file src="bin\Release\netstandard1.1\SshNet.Security.Cryptography.dll" target="lib\netstandard1.1\SshNet.Security.Cryptography.dll" />
     <file src="bin\Release\netstandard1.1\SshNet.Security.Cryptography.xml" target="lib\netstandard1.1\SshNet.Security.Cryptography.xml" />
-    <file src="bin\Release\netstandard1.1\SshNet.Security.Cryptography.pdb" target="lib\netstandard1.1\SshNet.Security.Cryptography.pdb" />
+    <file src="bin\Release\netstandard1.1\SshNet.Security.Cryptography.pdb" target="lib\netstandard1.1\SshNet.Security.Cryptography.pdb" />    
     <file src="bin\Release\netstandard1.2\SshNet.Security.Cryptography.dll" target="lib\netstandard1.2\SshNet.Security.Cryptography.dll" />
     <file src="bin\Release\netstandard1.2\SshNet.Security.Cryptography.xml" target="lib\netstandard1.2\SshNet.Security.Cryptography.xml" />
-    <file src="bin\Release\netstandard1.2\SshNet.Security.Cryptography.pdb" target="lib\netstandard1.2\SshNet.Security.Cryptography.xml" />
+    <file src="bin\Release\netstandard1.2\SshNet.Security.Cryptography.pdb" target="lib\netstandard1.2\SshNet.Security.Cryptography.pdb" />    
     <file src="bin\Release\netstandard1.3\SshNet.Security.Cryptography.dll" target="lib\netstandard1.3\SshNet.Security.Cryptography.dll" />
     <file src="bin\Release\netstandard1.3\SshNet.Security.Cryptography.xml" target="lib\netstandard1.3\SshNet.Security.Cryptography.xml" />
-    <file src="bin\Release\netstandard1.3\SshNet.Security.Cryptography.pdb" target="lib\netstandard1.3\SshNet.Security.Cryptography.pdb" />
+    <file src="bin\Release\netstandard1.3\SshNet.Security.Cryptography.pdb" target="lib\netstandard1.3\SshNet.Security.Cryptography.pdb" />    
     <file src="bin\Release\netstandard2.0\SshNet.Security.Cryptography.dll" target="lib\netstandard2.0\SshNet.Security.Cryptography.dll" />
     <file src="bin\Release\netstandard2.0\SshNet.Security.Cryptography.xml" target="lib\netstandard2.0\SshNet.Security.Cryptography.xml" />
     <file src="bin\Release\netstandard2.0\SshNet.Security.Cryptography.pdb" target="lib\netstandard2.0\SshNet.Security.Cryptography.pdb" />
