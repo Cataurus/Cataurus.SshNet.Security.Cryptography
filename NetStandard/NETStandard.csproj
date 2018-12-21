@@ -36,4 +36,24 @@
   <PropertyGroup Condition=" '$(TargetFramework)' == 'netstandard2.0' ">
     <DefineConstants>$(DefineConstants);FEATURE_CRYPTO_HASHALGORITHM</DefineConstants>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard1.0|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <OutputPath>..\bin</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard1.1|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <OutputPath>..\bin</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard1.2|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <OutputPath>..\bin</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard1.3|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <OutputPath>..\bin</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard2.0|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <OutputPath>..\bin</OutputPath>
+  </PropertyGroup>
 </Project>
