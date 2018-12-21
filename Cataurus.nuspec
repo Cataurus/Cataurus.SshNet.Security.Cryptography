@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Cataurus.SshNet.Security.Cryptography</id>
+    <version>$version$</version>
+    <authors>Ulf (Cataurus) Prill</authors>
+    <owners>Ulf (Cataurus) Prill</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Cataurus/Cataurus.SshNet.Security.Cryptography</projectUrl>
+    <description>SshNet.Security.Cryptography for only .NET Standard</description>
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="NETStandard.Library" version="1.6.1" />
+        <dependency id="System.IO" version="4.3.0" />
+      </group>
+      <group targetFramework=".NETStandard1.1">
+        <dependency id="NETStandard.Library" version="1.6.1"/>
+        <dependency id="System.IO" version="4.3.0" />
+      </group>
+      <group targetFramework=".NETStandard1.2">
+        <dependency id="NETStandard.Library" version="1.6.1" />
+        <dependency id="System.IO" version="4.3.0" />
+      </group>
+      <group targetFramework=".NETStandard1.3">
+        <dependency id="NETStandard.Library" version="1.6.1" />
+        <dependency id="System.IO" version="4.3.0" />
+        <dependency id="System.Security.Cryptography.Primitives" version="4.3.0" />
+      </group>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\netstandard1.0\SshNet.Security.Cryptography.dll" target="lib\netstandard1.0\SshNet.Security.Cryptography.dll" />
+    <file src="bin\Release\netstandard1.0\SshNet.Security.Cryptography.xml" target="lib\netstandard1.0\SshNet.Security.Cryptography.xml" />
+    <file src="bin\Release\netstandard1.1\SshNet.Security.Cryptography.dll" target="lib\netstandard1.1\SshNet.Security.Cryptography.dll" />
+    <file src="bin\Release\netstandard1.1\SshNet.Security.Cryptography.xml" target="lib\netstandard1.1\SshNet.Security.Cryptography.xml" />
+    <file src="bin\Release\netstandard1.2\SshNet.Security.Cryptography.dll" target="lib\netstandard1.2\SshNet.Security.Cryptography.dll" />
+    <file src="bin\Release\netstandard1.2\SshNet.Security.Cryptography.xml" target="lib\netstandard1.2\SshNet.Security.Cryptography.xml" />
+    <file src="bin\Release\netstandard1.3\SshNet.Security.Cryptography.dll" target="lib\netstandard1.3\SshNet.Security.Cryptography.dll" />
+    <file src="bin\Release\netstandard1.3\SshNet.Security.Cryptography.xml" target="lib\netstandard1.3\SshNet.Security.Cryptography.xml" />
+    <file src="bin\Release\netstandard2.0\SshNet.Security.Cryptography.dll" target="lib\netstandard2.0\SshNet.Security.Cryptography.dll" />
+    <file src="bin\Release\netstandard2.0\SshNet.Security.Cryptography.xml" target="lib\netstandard2.0\SshNet.Security.Cryptography.xml" />
+  </files>
+</package>
