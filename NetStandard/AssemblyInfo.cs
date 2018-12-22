@@ -1,8 +1,11 @@
 ﻿using System.Reflection;
 
-#pragma warning disable CS7035 // The specified version string does not conform to the recommended format - major.minor.build.revision
+[assembly: AssemblyCopyright("Copyright 2018 Ulf (Cataurus) Prill")]
+[assembly: AssemblyCompany("Ulf (Cataurus) Prill")]
+[assembly: AssemblyDescription("1.0.0.0 - 1.0.20181210.1")]
+[assembly: AssemblyProduct("Cataurus.SshNet.Security.Cryptography")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-#pragma warning restore CS7035 // The specified version string does not conform to the recommended format - major.minor.build.revision
+[assembly: AssemblyVersion("1.0.0.0")]
 
 #if NETSTANDARD1_0
 [assembly: AssemblyInformationalVersion("1.0.0.0")]
