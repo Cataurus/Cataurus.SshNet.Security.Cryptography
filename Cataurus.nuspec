@@ -10,6 +10,7 @@
     <licenseUrl>https://github.com/Cataurus/Cataurus.SshNet.Security.Cryptography/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Cataurus/Cataurus.SshNet.Security.Cryptography</projectUrl>
     <description>SshNet.Security.Cryptography for only .NET Standard</description>
+    <tags>System.Security.Cryptography HMACSHA1 MD5  SHA1 SHA256 SHA512 RIPEMD160 Hash</tags>
     <dependencies>
       <group targetFramework=".NETStandard1.0">
         <dependency id="NETStandard.Library" version="1.6.1" />

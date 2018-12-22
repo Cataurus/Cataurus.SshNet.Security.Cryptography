@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-[assembly: AssemblyCopyright("Copyright 2018 Ulf (Cataurus) Prill")]
+[assembly: AssemblyCopyright("Copyright Ulf (Cataurus) Prill 2018")]
 [assembly: AssemblyCompany("Ulf (Cataurus) Prill")]
 [assembly: AssemblyDescription("1.0.0.0 - 1.0.20181210.1")]
 [assembly: AssemblyProduct("Cataurus.SshNet.Security.Cryptography")]
