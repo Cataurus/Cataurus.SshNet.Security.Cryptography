@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28407.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NETStandard", "NetStandard\NETStandard.csproj", "{6184A1AB-3C28-4D98-B617-B1EA4A686F21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cataurus.SshNet.Security.Cryptography", "src\Cataurus.SshNet.Security.Cryptography.csproj", "{6184A1AB-3C28-4D98-B617-B1EA4A686F21}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0048743B-579E-42B4-A962-D3D3AF497874}"
 	ProjectSection(SolutionItems) = preProject
